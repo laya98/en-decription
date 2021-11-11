@@ -1,0 +1,39 @@
+#app{
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+}
+#app p{
+    width: 100%;
+    padding: 14px;
+    background-color: rgb(228, 228, 78);
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 30px;
+}
+textarea{
+    width: 100%;
+    border: 2px solid orange;
+    outline: none;
+    border-radius: 15px;
+    min-height: 140px;
+    font-size: 24px;
+    font-family: monospace;
+    color: black;
+    font-weight: bolder;
+}
+#app select{
+    width: 50%;
+    padding: 14px;
+    margin: 0px 370px 10px ;
+    outline: none;
+    border: 2px solid orange;
+    border-radius: 12px;
+    color: orange;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 27px;
+ 
+}
